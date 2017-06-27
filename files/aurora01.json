@@ -1,0 +1,58 @@
+{
+  "dataStructureRows": [
+    {
+      "shortName": "aurora01",
+      "dataElements": [
+        {
+          "value": "NOTREAL",
+          "name": "subjectkey"
+        },
+        {
+          "value": "SubjectId",
+          "name": "src_subject_id"
+        },
+        {
+          "value": "06/26/2017 00:00:00",
+          "name": "interview_date"
+        },
+        {
+          "value": "540",
+          "name": "interview_age"
+        },
+        {
+          "value": "M",
+          "name": "gender"
+        },
+        {
+          "value": "Num",
+          "name": "deviceserialnumber"
+        },
+        {
+          "value": "23:00:00",
+          "name": "startime1"
+        },
+        {
+          "value": "24:00:00",
+          "name": "stoptime"
+        },
+        {
+          "value": "Label",
+          "name": "timepoint_label"
+        },
+        {
+          "value": "Visit1",
+          "name": "visit_name"
+        },
+        {
+          "value": "s3://NDAR_AURORA/618523879050:obenshaindw/scratch/NOTREAL-June-2017.csv",
+          "name": "data_file1"
+        },
+        {
+          "value": "accelerometer",
+          "name": "data_file1_type"
+        }
+      ]
+    }
+  ],
+  "schemaName": "obenshaindw_107040"
+}

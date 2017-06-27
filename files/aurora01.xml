@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data_submission schemaName="obenshaindw_107040">
+	<dataStructureRows>
+		<dataStructureRow shortName="aurora01">
+			<dataElement name="subjectkey"><![CDATA[NOTREAL]]></dataElement>
+            <dataElement name="interview_date"><![CDATA[06/26/2017 00:00:00]]></dataElement>
+            <dataElement name="src_subject_id"><![CDATA[SubjectId]]></dataElement>
+            <dataElement name="interview_age"><![CDATA[540]]></dataElement>
+            <dataElement name="gender"><![CDATA[M]]></dataElement>
+            <dataElement name="deviceserialnumber"><![CDATA[Num]]></dataElement>
+			<dataElement name="startime1"><![CDATA[06/26/2017]]></dataElement>
+			<dataElement name="stoptime"><![CDATA[06/26/2017]]></dataElement>
+			<dataElement name="timepoint_label"><![CDATA[Label]]></dataElement>
+			<dataElement name="visit_name"><![CDATA[Visit1]]></dataElement>
+            <dataElement name="data_file1"><![CDATA[s3://NDAR_AURORA/618523879050:obenshaindw/scratch/NOTREAL-June-2017.csv]]></dataElement>
+		</dataStructureRow>
+	</dataStructureRows>
+</data_submission>
